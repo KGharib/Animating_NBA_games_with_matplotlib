@@ -6,6 +6,7 @@ The Aim of this project is to use webscraping tools to extract the data on baske
 ## Objectives
 * Analyze/perform EDA on the Dataset
 * Cleaning and removing of messy data 
+* Dynamic visualization of players scores and statistics
 
 ### Final Project Summary
 
