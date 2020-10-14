@@ -1,7 +1,7 @@
 # Animating_NBA_games_with_matplotlib
 
 ## Introduction
-The Aim of this project is to use webscraping tools to extract the data and then using visualization tools display the players who score at different times from their differnt locations throughout the game.
+The Aim of this project is to use webscraping tools to extract the data on basketball statistics and then using visualization tools display the players who score at different times from their differnt locations throughout the game.
 
 ## Objectives
 * Analyze/perform EDA on the Dataset
@@ -12,7 +12,7 @@ The Aim of this project is to use webscraping tools to extract the data and then
 
 **_Findings_**
 
-*  '%_Long_Commute___Drives_Alone' - Among workers who commute in their car alone, the percentage that commute more than 30 minutes
+
 
 
 
